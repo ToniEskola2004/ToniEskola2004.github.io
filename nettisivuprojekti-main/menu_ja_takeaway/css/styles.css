@@ -106,7 +106,6 @@ body {
 @media only screen and (max-width: 600px) { 
     iframe {
 
-        width:100%px;
         height:225px;
     }
 
@@ -188,4 +187,8 @@ footer {
 }
 .sijainti {
     padding-bottom: 5px;
+}
+.col-md-6 img {
+    border-radius: 15px;
+    overflow: hidden;
 }
