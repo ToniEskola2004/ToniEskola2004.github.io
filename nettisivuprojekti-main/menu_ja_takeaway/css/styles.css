@@ -95,6 +95,7 @@ body {
     font-size: 3em;
 }
 .imgcontainer{
+    padding-top: 75px;
     width: 100%;
     height: 400px;
     background-position: center;
@@ -113,7 +114,6 @@ body {
 /* css for footer*/
 
 footer {
-    padding-top: 75px;
     background-color: rgb(40, 31, 31);
 }
 .footercontainer {
