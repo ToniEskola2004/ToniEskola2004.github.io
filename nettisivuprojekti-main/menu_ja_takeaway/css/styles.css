@@ -191,4 +191,5 @@ footer {
 .col-md-6 img {
     border-radius: 15px;
     overflow: hidden;
+    cursor: pointer;
 }
